@@ -1,4 +1,3 @@
-# Excel-Hurricanes-DataSet
 # 🌪️ Biggest Atlantic Hurricanes Dataset
 
 This repository contains historical data on some of the **most significant Atlantic hurricanes**, compiled in the Excel workbook `Day_3_Biggest Atlantic Hurricanes_COPY.xlsx`. The dataset includes hurricane names, dates, damage estimates, wind speeds, and category classifications based on the Saffir-Simpson scale.
